@@ -1,3 +1,4 @@
 #EXTM3U
   
-#EXTINF:-1h ,ttps://appsfirestick.com/lista-m3u-argentina/
+#EXTINF:-1h ,https://iptv-org.github.io/iptv/countries/ar.m3u
+
