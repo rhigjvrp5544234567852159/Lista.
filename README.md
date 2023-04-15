@@ -36,3 +36,5 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="X24.ar" estado="error",X24 (360p)
 http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
+#EXTINF:-1" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (320)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=<SESSION>&lchId=112&format=HLSAD&f=.m3u8
