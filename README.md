@@ -36,18 +36,5 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="X24.ar" estado="error",X24 (360p)
 http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
-#EXTM3U
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2790
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2791
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2792
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2793
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2794
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2795
-#EXTINF:-1
-http://00322.xyz:8000/jhanersongutierrez/8NNFDEB7IE/2796
+#EXTINF:-1 ,ESPN2 Canal Argentino
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
